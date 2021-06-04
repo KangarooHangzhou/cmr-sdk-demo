@@ -3,6 +3,13 @@
 > **CarModelRecognition 车型识别sdk打包接入**
 
 - 下载 `cmr-release.aar`
+
+  ```
+  https://github.com/KangarooHangzhou/cmr-sdk-demo/blob/master/app/libs/cmr-release.aar
+  ```
+
+
+
 - 在项目的  `build.gradle` 添加
 
 ```groovy
